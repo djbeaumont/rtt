@@ -1,6 +1,7 @@
 {
   "name": "rtt",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.mjs",
   "scripts": {
